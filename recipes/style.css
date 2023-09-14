@@ -3,23 +3,34 @@
     font-size: 40px;
     font-weight: bold;
     background-color: #FFCC70;
+    color: black;
 }
-
 .links{
     text-align: center;
     font-size: 20px;
     font-weight: bold;
-    background-color:#FFFADD;
+    background-color:#FFCC70;
+}
+div{
+    text-align: center;
+    font-size: 20px;
+    background-color: #22668D;
+    font-weight: bold;
+    color: white;
 }
 
-.comment{
+
+
+
+
+p,ul,ol{
     text-align: center;
     font-size: 16px;
     background-color: #8ECDDD;
 }
 
-.preview{
-    width: 200px;
+img{
+    width: 400px;
     height: auto;
     display: block;
     margin-left: auto;
